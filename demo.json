@@ -6,10 +6,6 @@
   "live_match": 24,
   "upcoming_match": 336,
   "ended_match": 75,
-  "sources": [
-    "api1:events.json",
-    "api2:Sports_data.json"
-  ],
   "matches": [
     {
       "status": "LIVE",
